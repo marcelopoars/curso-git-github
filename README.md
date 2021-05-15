@@ -1,3 +1,10 @@
 # Curso de Git e Github
 
-Teste
+## Comandos Git
+
+### log
+``git log``
+
+### checkout
+``git checkout``
+
