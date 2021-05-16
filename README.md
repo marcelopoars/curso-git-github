@@ -25,8 +25,11 @@ Alternar branch
 
 
 Cria nova branch e já alterna para ela
-``git checkout -b "nome_nova_branch"``
+``git checkout -b "nome_da_nova_branch"``
 
+
+Subir para Github uma nova branche criara
+``git push --set-upstream origin nome_da_nova_branch``
 
 Deletar branch
 ``git branch -d nome_da_branch ``
