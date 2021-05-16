@@ -32,6 +32,7 @@ Deletar branch
 ``git branch -d nome_da_branch ``
 
 
+
 ### merge
 ``git merge nome_da_branch``
 
