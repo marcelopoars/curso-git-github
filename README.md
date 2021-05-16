@@ -20,3 +20,6 @@ Criar nova branche
 
 Alternar branch
 ``git checkout 'nome_da_branch'``
+
+Cria nova branch e já alterna para ela
+``git checkout -b "nome_nova_branch"``
