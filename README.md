@@ -8,3 +8,6 @@
 ### checkout
 ``git checkout``
 
+### reset
+``git reset --hard origin/main``
+
