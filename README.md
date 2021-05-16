@@ -77,3 +77,11 @@ Enviar uma tag para Github
 
 Enviar todas as tags para o Github
 ``git push origin --tags``
+
+
+## fetch
+```git fetch -a``
+
+
+## pull
+``git pull``
