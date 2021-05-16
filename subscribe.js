@@ -1,3 +1,3 @@
-function sbscribe(name, email) {
-    return "Hello"
+function sbscribe(email) {
+    return email
 }
