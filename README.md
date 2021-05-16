@@ -47,8 +47,16 @@ Mostra conteúdo da stash
 
 
 ### tags
-Criar uma nova tag
+Criar uma nova tag (marcar uma versão)
 ``git tag -a v1.0 -m "Mensagem..."``
 
 Listar tags
 ``git tag``
+
+
+Mostra detalhes da tag
+``git show v1.0``
+
+
+Alternar entre tags
+``git checkout v1.0``
