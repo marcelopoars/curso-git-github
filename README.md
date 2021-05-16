@@ -49,3 +49,6 @@ Mostra conteúdo da stash
 ### tags
 Criar uma nova tag
 ``git tag -a v1.0 -m "Mensagem..."``
+
+Listar tags
+``git tag``
