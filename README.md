@@ -26,3 +26,6 @@ Cria nova branch e já alterna para ela
 
 Deletar branch
 ``git branch -d nome_da_branch ``
+
+
+### merge
