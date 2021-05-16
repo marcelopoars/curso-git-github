@@ -1,2 +1,6 @@
 Web Developer
 Front-end
+UX
+PO
+PM
+CTO
