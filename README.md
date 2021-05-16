@@ -29,3 +29,4 @@ Deletar branch
 
 
 ### merge
+``git merge nome_da_branch``
