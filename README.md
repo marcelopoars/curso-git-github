@@ -44,3 +44,8 @@ Alterna para stash
 
 Mostra conteúdo da stash
 ``git stash show -p 2``
+
+
+### tags
+Criar uma nova tag
+``git tag -a v1.0 -m "Mensagem..."``
