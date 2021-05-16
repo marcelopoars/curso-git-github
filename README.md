@@ -16,10 +16,13 @@ Visualizar lista de branch
 ``git branch``
 
 Criar nova branche
-``git branch 'nome_da_nova_branch'``
+``git branch nome_da_nova_branch``
 
 Alternar branch
-``git checkout 'nome_da_branch'``
+``git checkout nome_da_branch``
 
 Cria nova branch e já alterna para ela
 ``git checkout -b "nome_nova_branch"``
+
+Deletar branch
+``git branch -d nome_da_branch ``
