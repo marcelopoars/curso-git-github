@@ -33,4 +33,14 @@ Deletar branch
 
 
 ### stash
+Cria nova stash
 ``git stash``
+
+Lista stash
+``git stash list``
+
+Alterna para stash
+``git stash applay 0``
+
+Mostra conteúdo da stash
+``git stash show -p 2``
