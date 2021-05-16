@@ -80,7 +80,7 @@ Enviar todas as tags para o Github
 
 
 ## fetch
-```git fetch -a``
+``git fetch -a``
 
 
 ## pull
