@@ -164,11 +164,10 @@ Usar com atenção
 `git gc`
 
 
-<<<<<<< HEAD
 ### diff
 `git diff`
 `git diff --staged` // staged area
-=======
+
 ## pull
 Busca alterações remotas
 ``git pull``
