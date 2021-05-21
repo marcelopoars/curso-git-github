@@ -36,6 +36,7 @@ Inicializa repositório local
 
 ### config
 `git config --list`
+`git --local --list`
 
 `cat ~/.gitconfig` ou `cat ~/.config/git/config`
 
