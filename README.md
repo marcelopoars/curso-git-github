@@ -10,7 +10,7 @@ Os trê estágios do Git:
 
 
 ### Comando úteis
-`git init`
+`touch 'novo_arquivo.txt'`
 
 `ls -a`
 
@@ -60,6 +60,16 @@ Corrige mensagem do commit
 `git commit -m "mensagem" --amend`
 
 
+### log
+`git log`
+`git log --oneline`
+`git log -n 5`
+`git log --since=2020-08-21`
+`git log --until=2020-08-21`
+`git log --author=Marcelo`
+`git log --grep="home"`
+
+
 # rm 
 `git rm --cached "nome do arquivo"`
 `git rm "nome do arquivo"` // deleta arquivo do sistema
@@ -73,14 +83,7 @@ Corrige mensagem do commit
 `git mv "arquivo" "diretório/novo nome do arquivo"`
 
 
-### log
-`git log`
-`git log --oneline`
-`git log -n 5`
-`git log --since=2020-08-21`
-`git log --until=2020-08-21`
-`git log --author=Marcelo`
-`git log --grep="home"`
+
 
 ### shortlog
 
