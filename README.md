@@ -114,7 +114,8 @@ Deletar branch
 
 
 ### fetch
-Busca novas branches no repositório remoto
+O comando git fetch traz do repositório remoto todas informações sobre ele que ainda não estão no seu repositório local.
+`git fetch`
 `git fetch -a`
 
 
