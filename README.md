@@ -134,10 +134,12 @@ Lista stash
 `git stash list`
 
 Alterna para stash
-`git stash applay 0`
+`git stash apply "0"`
 
 Mostra conteúdo da stash
 `git stash show -p 2`
+
+`git stash pop`
 
 
 ### tags
@@ -172,6 +174,10 @@ Usar com atenção
 `git diff`
 `git diff --staged` // staged area
 
-## pull
+### pull
 Busca alterações remotas
 ``git pull``
+
+
+### remote
+`git remote -v`
