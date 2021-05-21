@@ -84,4 +84,6 @@ Enviar todas as tags para o Github
 
 
 ## pull
+Busca alterações remotas
 ``git pull``
+
